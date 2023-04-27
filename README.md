@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Igor Lekuona Eizagirre, a recently graduated software developer from Zarautz, Basque Country!!
+
 <!--
 **IgorLekuona/IgorLekuona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
